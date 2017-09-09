@@ -18,10 +18,6 @@ Geeked Out Solutions
 =====
 I also have a small business where we offer chatbot solutions, home automation and more.  You can get more information at www.geekedoutsolutions.com
 
-Current Projects
+Patreon
 =====
-* Mycroft API - A external way of interacting with Mycroft AI instances as well as Mark 1. The repo can be found [Here](https://github.com/Geeked-Out-Solutions/mycroftapi)
-
-* Home Assistant Config - Currently working on rebuilding my home assistant setup.  You can find the old config [Here](https://github.com/btotharye/Home-AssistantConfig) and the new config is hosted [Here](https://github.com/Geeked-Out-Solutions/home-assistant-config)
-
-* Mycroft Errbot Plugin - A [errbot](https://errbot.io) plugin that offers assistant to Mycroft AI related questions.  The plugin can be found [Here](https://github.com/btotharye/err-mycroft) and you can test it out on [Telegram](https://telegram.org) by searching for MycroftHelpBot
+I have my own Patreon where I offer some extra rewards like private slack channels and mattermost for testing out my bots and other projects as I build them.  If that intrests you please check out my [Patreon](https://www.patreon.com/Geekedoutsol)
