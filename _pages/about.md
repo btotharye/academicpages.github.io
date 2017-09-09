@@ -14,10 +14,6 @@ Fiverr Services
 =====
 I offer a wide range of services on fiverr that include mycroft training, skill development as well as home assistant setup and configuration.  Check out my [Fiverr](https://www.fiverr.com/brianhopkins755) if you are looking for any work to be done.
 
-Geeked Out Solutions
-=====
-I also have a small business where we offer chatbot solutions, home automation and more.  You can get more information at www.geekedoutsolutions.com
-
 Patreon
 =====
 I have my own Patreon where I offer some extra rewards like private slack channels and mattermost for testing out my bots and other projects as I build them.  If that intrests you please check out my [Patreon](https://www.patreon.com/Geekedoutsol)
