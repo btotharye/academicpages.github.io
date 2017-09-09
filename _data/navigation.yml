@@ -1,22 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Bots"
+    url: /bots/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Home Automation"
+    url: /home-automation/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Mycroft AI"
+    url: /mycroftai/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Active Projects"
+    url: /activeprojects/
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
