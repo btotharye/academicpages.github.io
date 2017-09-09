@@ -81,13 +81,13 @@ author:
   avatar           : "profile.png"
   bio              : "Open Source Enthusiast. Big into Python/Devops/Automation"
   location         : "Clayton, NC"
-  employer         : "Geeked Out Solutions"
+  employer         : 
   website          : "geekedoutsolutions.com"
   email            : "sales@geekedoutsolutions.com"
   bitbucket        :
   facebook         : "geekedoutsol"
   github           : "btotharye"
-  linkedin         :
+  linkedin         : "brianhh1230"
   twitter          : "geekedoutsol"
   patreon          : "https://www.patreon.com/bePatron?u=7262852"
   youtube          : "channel/GeekedOutSolutions"
