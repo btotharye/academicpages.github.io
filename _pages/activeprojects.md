@@ -11,4 +11,4 @@ redirect_from:
 
 * Home Assistant Config - Currently working on rebuilding my home assistant setup.  You can find the old config <a href="https://github.com/btotharye/Home-AssistantConfig">Here</a> and the new config is hosted <a href="https://github.com/Geeked-Out-Solutions/home-assistant-config">Here</a>
 
-* Mycroft Errbot Plugin - A <a href="https://errbot.io">Errbot</a> plugin that offers assistant to Mycroft AI related questions.  The plugin can be found <a href="https://github.com/btotharye/err-mycroft>Here</a> and you can test it out on <a href="https://telegram.org>Telegram</a> by searching for MycroftHelpBot
+* Mycroft Errbot Plugin - A <a href="https://errbot.io">Errbot</a> plugin that offers assistant to Mycroft AI related questions.  The plugin can be found <a href="https://github.com/btotharye/err-mycroft">Here</a> and you can test it out on <a href="https://telegram.org>Telegram"</a> by searching for MycroftHelpBot
