@@ -10,8 +10,6 @@ redirect_from:
 
 Welcome to my Github page, my one stop location for all my news and updates.  Below you will see some of my active projects and work as well as services I offer.  You can chat with me in a few different ways:
 
-[My Mattermost Server](https://chat.lackey.io/signup_user_complete/?id=xopou3ri3bfc5mcrjrsi9matga)
-
 [Discord](https://discord.gg/u5PNAk)
 
 [Mycroft AI Mattermost](https://chat.mycroft.ai)
