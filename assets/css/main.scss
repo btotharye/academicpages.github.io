@@ -9,7 +9,7 @@
  *  - https://twitter.com/mmistakes
  *
 */
-
+$body-color: #ffa366;
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -38,4 +38,4 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-$body-color: #ffa366;
+
